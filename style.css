@@ -1,0 +1,110 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+a {
+	text-decoration: none;
+}
+
+header{
+	background-color: blue;
+	height: 100px;
+	margin-top: 20px;
+}
+
+.nikas-div{
+display: flex;
+flex-direction: row-reverse;
+margin-right: 550px;
+font-size: 30px;
+
+}
+
+a{
+	margin-left: 20px;
+	color: white;
+	margin-top: 30px;
+}
+.nikal-a{
+	background-color: white;
+	color: black;
+	height: 45px;
+}
+img{
+	margin-right: 510px;
+	margin-top: 20px;
+}
+
+h1{
+	font-size: 30px;
+	margin-top: 100px;
+	margin-left: 350px;
+}
+
+section{
+	 display: flex;
+ justify-content: flex-start;
+
+}
+
+.niko-div{
+ height: 70px;
+ width: 70px;
+ margin-left: 350px;
+ 	background-color: #F9F9F9 ;
+}
+h3{
+	font-size: 22px;
+
+}
+.nika-wi{
+	
+		margin-top: 100px;
+}
+p{
+	margin-top: 13px;
+	width: 480px;
+	
+	
+	font-size: 20px;
+}
+.nika-diva{
+ height: 70px;
+ width: 70px;
+ margin-left: 490px;
+ background-color: blue;
+
+}
+.fast-nik{
+	margin-bottom: 50px;
+}
+
+.niko-divai{
+height: 70px;
+ width: 70px;
+ margin-left: 490px;
+ background-color: #F9F9F9 ;
+}
+
+.nikoi-la{
+height: 10px;
+ width: 10px;
+ margin-left: 600px;
+ background-color: blue;
+ border-radius: 100px;
+}
+.nikalai-ti{
+height: 10px;
+ width: 10px;
+ margin-left: 15px;
+ background-color: #5F9EA0;
+ border-radius: 100px;
+}
+.molas-div{
+height: 10px;
+ width: 10px;
+ margin-left: 15px;
+ background-color: #5F9EA0;
+ border-radius: 100px;
+}
